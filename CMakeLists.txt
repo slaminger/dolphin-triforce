@@ -3,7 +3,7 @@
 #
 cmake_minimum_required(VERSION 2.6)
 
-option(ANDROID "Enables a build for Android" OFF)
+option(ANDROID "Enables a build for Android" ON)
 option(USE_EGL "Enables EGL OpenGL Interface" OFF)
 option(USE_X11 "Enables X11 Support" ON)
 option(USE_WAYLAND "Enables Wayland Support" OFF)
