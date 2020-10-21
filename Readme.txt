@@ -3,6 +3,8 @@ Dolphin-emu - The Gamecube / Wii Emulator
 Homesite: http://dolphin-emu.org/
 Project Site: http://code.google.com/p/dolphin-emu
 
+This is a custom fork by Steve Laminger
+
 Dolphin-emu is a emulator for Gamecube, Wii, Triforce that lets
 you run Wii/GCN/Tri games on your Windows/Linux/Mac PC system.
 
