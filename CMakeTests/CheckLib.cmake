@@ -4,7 +4,7 @@ macro(_internal_message msg)
 	if(NOT ${_is_quiet})
 		message("${msg}")
 	endif()
-endmacro()
+endmacro()  
 
 macro(check_lib var lib)
 	set(_is_required 0)
